@@ -1,7 +1,7 @@
 # Hola, me llamo Alex Cantón García 😎
 ### Soy Desarrollador Web Fullstack
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![Profile](https://github.com/alexcanDvlpr/alexcanDvlpr/blob/main/assets/main.jpg?raw=true)
 
 ### Algo sobre mí 🙋‍♂️
 ```js
