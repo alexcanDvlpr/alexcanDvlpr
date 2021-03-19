@@ -12,8 +12,8 @@ const alexcantongarcia = {
   hobbies: [ "Star Wars", "Marvel", "Baloncesto 🏀", "Lectura 📚", "Gastronomía 😋" ],
   links: [{
     linkedin: "https://www.linkedin.com/in/alejandro-cant%C3%B3n-garc%C3%ADa-2a5b7311a/",
-    instagram: "https://instagram.com/carlosazaustre",
-    twitter: "https://www.instagram.com/alexcan.dvlpr",
+    instagram: "https://www.instagram.com/alexcan.dvlpr",
+    twitter: "https://twitter.com/ACanton97",
   }],
 }
 ```
